@@ -1,0 +1,148 @@
+{
+	[
+		{
+			"id" : 7,
+			"name" : "Independência"
+		},
+		{
+			"id" : 10,
+			"name" : "Pioneira"
+		},
+		{
+			"id" : 15,
+			"name" : "Leonardo"
+		},
+		{
+			"id" : 6,
+			"name" : "Califórnia"
+		},
+		{
+			"id" : 26,
+			"name" : "Canaa"
+		},
+		{
+			"id" : 24,
+			"name" : "Alvorada"
+		},
+		{
+			"id" : 19,
+			"name" : "Correntão"
+		},
+		{
+			"id" : 25,
+			"name" : "Anta"
+		},
+		{
+			"id" : 21,
+			"name" : "Flor Do Campo"
+		},
+		{
+			"id" : 3,
+			"name" : "Região Rio Juruena"
+		},
+		{
+			"id" : 17,
+			"name" : "Nova"
+		},
+		{
+			"id" : 20,
+			"name" : "Pirapó"
+		},
+		{
+			"id" : 18,
+			"name" : "Passo Fundo"
+		},
+		{
+			"id" : 16,
+			"name" : "Horizonte"
+		},
+		{
+			"id" : 27,
+			"name" : "Cascavel"
+		},
+		{
+			"id" : 23,
+			"name" : "Primavera"
+		},
+		{
+			"id" : 2,
+			"name" : "Região Norte"
+		},
+		{
+			"id" : 4,
+			"name" : "Região Sul"
+		},
+		{
+			"id" : 34,
+			"name" : "Super Pão"
+		},
+		{
+			"id" : 35,
+			"name" : "Tucunaré 1"
+		},
+		{
+			"id" : 36,
+			"name" : "Tucunaré 2"
+		},
+		{
+			"id" : 33,
+			"name" : "Setor Sul"
+		},
+		{
+			"id" : 8,
+			"name" : "Brasflor"
+		},
+		{
+			"id" : 32,
+			"name" : "Descanso"
+		},
+		{
+			"id" : 9,
+			"name" : "Ciapar"
+		},
+		{
+			"id" : 11,
+			"name" : "Rio Do Sangue"
+		},
+		{
+			"id" : 12,
+			"name" : "Rio Verde"
+		},
+		{
+			"id" : 22,
+			"name" : "Gueno"
+		},
+		{
+			"id" : 13,
+			"name" : "Suissa"
+		},
+		{
+			"id" : 29,
+			"name" : "Mutum"
+		},
+		{
+			"id" : 31,
+			"name" : "Tanguro"
+		},
+		{
+			"id" : 30,
+			"name" : "Onca"
+		},
+		{
+			"id" : 14,
+			"name" : "Triangulo Da Fronteira"
+		},
+		{
+			"id" : 28,
+			"name" : "Darro"
+		},
+		{
+			"id" : 1,
+			"name" : "Arrendamento Ughini's"
+		},
+		{
+			"id" : 5,
+			"name" : "São Domingos"
+		}
+	]
+}
