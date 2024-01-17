@@ -1,4 +1,4 @@
-# Case Engenheiro de dados JR NuvemTecnologia
+# Case Engenheiro de dados JR Nuvem Tecnologia
 ## Repositório com a resolução do case, na pasta do repositório contém os prints da carga no BD.
 
 
