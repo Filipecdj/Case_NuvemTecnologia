@@ -1,7 +1,8 @@
 # Case Engenheiro de dados JR NuvemTecnologia
-Repositório com a resolução do case abaixo:
+## Repositório com a resolução do case, na pasta do repositório contém os prints da carga no BD.
 
 
+## Case:
 Foram entregues 3 arquivos para serem carregados no banco de dados PostgreSQL.
 Os arquivos entregues foram:
 
