@@ -171,14 +171,14 @@ def particionar_parquet(df, coluna_particao, pasta_saida):
     
 def main():
     input_files = [
-        r'C:\Users\JUSSA\Desktop\case_nuvem\exercicio\arq.01.csv',
-        r'C:\Users\JUSSA\Desktop\case_nuvem\exercicio\arq.02.csv'
+        r'\arq.01.csv',
+        r'\arq.02.csv'
     ]
     output_file = 'arquivo_normalizado.csv'
     engine, conn, cursor = criar_conexao_banco_dados()
 
     #Cria tabelas usando estrutura.sql
-    executar_script_sql(cursor, r'C:\Users\JUSSA\Desktop\case_nuvem\exercicio\estrutura.sql')
+    executar_script_sql(cursor, r'\estrutura.sql')
     conn.commit()
 
     #Processa arquivos CSV
@@ -191,7 +191,7 @@ def main():
     df = processar_dataframe(df)
 
     #Carrega e trata os dados regiao.json para DataFrame
-    caminho_arquivo_json = r'C:\Users\JUSSA\Desktop\case_nuvem\exercicio\regiao.json'
+    caminho_arquivo_json = r'\regiao.json'
     df_json = pd.DataFrame(ler_arquivo_json(caminho_arquivo_json))
 
     #Carga dos dados para o PostgreSQL
